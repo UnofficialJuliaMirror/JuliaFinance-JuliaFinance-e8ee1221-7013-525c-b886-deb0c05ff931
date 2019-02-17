@@ -1,0 +1,11 @@
+name = "JuliaFinance"
+uuid = "e8ee1221-7013-525c-b886-deb0c05ff931"
+repo = "https://github.com/JuliaFinance/JuliaFinance.git"
+
+description = """
+Official Julia package registry for the JuliaFinance organization.
+"""
+
+[packages]
+
+0fd90b74-7c1f-579e-9252-02cd883047b9 = { name = "Currencies", path = "Currencies" }
