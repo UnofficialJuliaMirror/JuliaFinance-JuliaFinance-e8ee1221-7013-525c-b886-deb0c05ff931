@@ -1,0 +1,3 @@
+name = "Entities"
+uuid = "d68c5960-3734-11e9-0c07-a30dcbe4dda4"
+repo = "https://github.com/JuliaFinance/Entities.jl.git"

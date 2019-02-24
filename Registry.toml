@@ -10,5 +10,6 @@ Official Julia package registry for the JuliaFinance organization.
 
 82bc9f9d-56a2-5453-b677-633a29649040 = { name = "Countries", path = "Countries" }
 0fd90b74-7c1f-579e-9252-02cd883047b9 = { name = "Currencies", path = "Currencies" }
+d68c5960-3734-11e9-0c07-a30dcbe4dda4 = { name = "Entities", path = "Entities" }
 044ac1b0-3745-11e9-192d-5d2cecb87306 = { name = "Jurisdictions", path = "Jurisdictions"}
 b44f5480-3750-11e9-03b7-d5e34f572a03 = { name = "Markets", path = "Markets" }
