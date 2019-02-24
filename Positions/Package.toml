@@ -1,0 +1,3 @@
+name = "Positions"
+uuid = "81d999f0-3725-11e9-2196-fd457307c398"
+repo = "https://github.com/JuliaFinance/Positions.jl.git"

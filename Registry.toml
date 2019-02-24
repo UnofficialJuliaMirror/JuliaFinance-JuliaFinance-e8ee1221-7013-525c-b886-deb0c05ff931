@@ -14,3 +14,4 @@ d68c5960-3734-11e9-0c07-a30dcbe4dda4 = { name = "Entities", path = "Entities" }
 fc5b99d0-3725-11e9-2623-bf561589b708 = { name = "FinancialInstruments", path = "FinancialInstruments"}
 044ac1b0-3745-11e9-192d-5d2cecb87306 = { name = "Jurisdictions", path = "Jurisdictions"}
 b44f5480-3750-11e9-03b7-d5e34f572a03 = { name = "Markets", path = "Markets" }
+81d999f0-3725-11e9-2196-fd457307c398 = { name = "Positions", path = "Positions" }
