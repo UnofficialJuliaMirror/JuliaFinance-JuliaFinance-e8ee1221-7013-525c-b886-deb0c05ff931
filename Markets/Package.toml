@@ -1,0 +1,3 @@
+name = "Markets"
+uuid = "b44f5480-3750-11e9-03b7-d5e34f572a03"
+repo = "https://github.com/JuliaFinance/Markets.jl.git"

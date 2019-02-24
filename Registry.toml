@@ -8,4 +8,6 @@ Official Julia package registry for the JuliaFinance organization.
 
 [packages]
 
+82bc9f9d-56a2-5453-b677-633a29649040 = { name = "Countries", path = "Countries" }
 0fd90b74-7c1f-579e-9252-02cd883047b9 = { name = "Currencies", path = "Currencies" }
+b44f5480-3750-11e9-03b7-d5e34f572a03 = { name = "Markets", path = "Markets" }
